@@ -3,7 +3,7 @@ title: Fiuumber: Backoffice User guide
 layout: home
 ---
 
-Guía de usuario para el backoffice de Fiuumber
+# Guía de usuario para el backoffice de Fiuumber
 
 **1. Inicio de sesión para administradores**
 
