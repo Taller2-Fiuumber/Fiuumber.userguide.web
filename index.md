@@ -61,23 +61,21 @@ Al presionar el botón "View profile" de un pasajero en particular, se redirige 
 
 También pueden observarse gráficos acerca del historial de viajes de este pasajero en particular y acerca del estado de sus viajes (esto en caso de que haya hecho algún viaje).
 
-![](./img/file10.png)
-
 **4. Visualización de todos los conductores**
 
 **4.1 Listado de todos los conductores**
 
 Al seleccionar la opción _Drivers_, se listan todos los conductores del sistema. Se puede observar una tabla en la que cada fila incluye el nombre, el apellido, el nombre de usuario, el correo electrónico, la dirección y la matrícula de un conductor. Pueden seleccionarse la cantidad de conductores a observar por página, y se puede navegar entre páginas con las flechas en la esquina inferior derecha. Además, para cada conductor puede presionarse el botón _"View Profile"_.
 
-![](RackMultipart20221216-1-mul5aj_html_7ea023150c008bb5.png)
+![](./img/file10.png)
 
 **4.2 Visualización del perfil de un conductor**
 
 Al presionar el botón de "View Profile", se redirige a una nueva página en la que se cuenta con información más específica acerca del conductor: el modelo, marca, año y color de su vehículo. En esta página, se cuenta con un botón _"Block user"_ para bloquear al conductor en caso de que no esté bloqueado, o un botón de _"Unblock user"_ en caso de que esté conductor. También pueden observarse gráficos acerca del historial de viajes de este conductor en particular y acerca del estado de sus viajes (esto en caso de que haya hecho algún viaje).
 
-![](RackMultipart20221216-1-mul5aj_html_74332934a8aafc07.png)
+![](./img/file11.png)
 
-![](RackMultipart20221216-1-mul5aj_html_d8c77c52233f497d.png)
+![](./img/file12.png)
 
 **5. Visualización de todos los administradores**
 
@@ -85,13 +83,13 @@ Al presionar el botón de "View Profile", se redirige a una nueva página en la 
 
 Al seleccionar la opción _Admins_, se listan todos los administradores del sistema. Se puede observar una tabla en la que cada fila incluye el nombre y el apellido de un administrador. Pueden seleccionarse la cantidad de administradores a observar por página, y se puede navegar entre páginas con las flechas en la esquina inferior derecha. Además, para cada conductor puede presionarse el botón _"View Profile"_.
 
-![](RackMultipart20221216-1-mul5aj_html_e6c34f0ebb2a600b.png)
+![](./img/file13.png)
 
 **5.2 Visualización del perfil de un administrador**
 
 Al presionar el botón de "View Profile", se redirige a una nueva página en la que se cuenta con información más específica acerca del administrador, como su _id_ interno del sistema.
 
-![](RackMultipart20221216-1-mul5aj_html_6aa43020eaf73724.png)
+![](./img/file14.png)
 
 **6. Reglas de cotización**
 
@@ -101,13 +99,13 @@ Al presionar el botón de "View Profile", se redirige a una nueva página en la 
 
 Al seleccionar la opción _Register a new admin_, se redirecciona a una página para registrar a un nuevo administrador en el sistema. Para ello, deben indicarse el nombre, el apellido, el correo electrónico y la contraseña de este nuevo administrador a registrar. Luego, debe presionarse el botón "Sign Up Now".
 
-![](RackMultipart20221216-1-mul5aj_html_3e3945ac01b8747e.png)
+![](./img/file15.png)
 
 **7.2 Registro fallido**
 
 En caso de no indicarse alguno de los valores solicitados, el registro de un nuevo administrador fallará, y se indicará una advertencia por debajo de cada uno de los campos faltantes.
 
-![](RackMultipart20221216-1-mul5aj_html_266022ceb13a4c8f.png)
+![](./img/file16.png)
 
 **7.3 Registro exitoso**
 
