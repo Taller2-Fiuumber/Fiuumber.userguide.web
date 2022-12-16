@@ -11,13 +11,13 @@ Guía de usuario para el backoffice de Fiuumber
 
 Al abrir la página web, se muestra la pantalla de Login para administradores ya registrados. Para iniciar sesión, se debe ingresar el correo electrónico y la contraseña. Una cuenta de administrador debe ser creada desde otra cuenta de administrador, por lo que de no poseer una cuenta, otro administrador deberá crearla por usted. Una vez ingresados el correo electrónico y la contraseña, se debe presionar el botón de _Sign in Now_ para continuar.
 
-![](RackMultipart20221216-1-mul5aj_html_c3d9bc4d284f2cac.png)
+![](./img/file1.png)
 
 **1.1 Inicio de sesión fallido**
 
 En caso de haberse ingresado un correo electrónico o contraseña inválidos, se mostrará un mensaje de error y el usuario no podrá acceder al servicio de administradores.
 
-![](RackMultipart20221216-1-mul5aj_html_ef5b4cb68a88b45a.png)
+![](./img/file2.png)
 
 **1.2 Inicio de sesión exitoso**
 
@@ -25,7 +25,7 @@ Si el correo electrónico y la contraseña ingresados son correctos, se redirecc
 
 Además, en la esquina superior izquierda se cuenta con un botón, que, al ser presionado, permite visualizar el perfil propio o cerrar sesión.
 
-![](RackMultipart20221216-1-mul5aj_html_de851a05fbd8f8b4.png)
+![](./img/file3.png)
 
 **2. Visualización de métricas**
 
@@ -35,15 +35,15 @@ Debajo del gráfico de Logins, se puede observar un gráfico de barras que indic
 
 A continuación, pueden observarse dos gráficos de dona, uno indicando el porcentaje y las cantidades de usuarios bloqueados vs. usuarios no bloqueados, y otro indicando los porcentajes y las cantidades de administradores, pasajeros y conductores de vehículos en el sistema.
 
-![](RackMultipart20221216-1-mul5aj_html_fc3593b90a442a45.png)
+![](./img/file4.png)
 
-![](RackMultipart20221216-1-mul5aj_html_9352905385a49f47.png)
+![](./img/file5.png)
 
-![](RackMultipart20221216-1-mul5aj_html_a82cd65d8183dd8e.png)
+![](./img/file6.png)
 
 Debajo de las métricas de usuarios, hay un botón que al presionarlo permite ver las métricas de viajes. Se pueden observar dos gráficos: uno indicando la cantidad de nuevos viajes por día en cierto rango de días (última semana o último mes), y un histograma indicando la duración de los viajes en la última semana/mes. Las duraciones de los viajes están agrupadas en rangos de diez minutos.
 
-**[foto de la pantalla de métricas de trips]**
+![](./img/file7.png)
 
 **3. Visualización de todos los pasajeros**
 
@@ -51,17 +51,17 @@ Debajo de las métricas de usuarios, hay un botón que al presionarlo permite ve
 
 Al seleccionar la opción _Passengers_, se listan todos los pasajeros del sistema. Se puede observar una tabla en la que cada fila incluye el nombre, el apellido, el nombre de usuario, el correo electrónico y la dirección de un pasajero. Pueden seleccionarse la cantidad de pasajeros a observar por página, y se puede navegar entre páginas con las flechas en la esquina inferior derecha. Además, para cada pasajero puede presionarse el botón _"View Profile"_.
 
-![](RackMultipart20221216-1-mul5aj_html_32706632c4b1c562.png)
+![](./img/file8.png)
 
 **3.2 Visualización del perfil de un pasajero**
 
 Al presionar el botón "View profile" de un pasajero en particular, se redirige a una nueva página en la que se cuenta con información más específica acerca del pasajero. En esta página, se cuenta con un botón _"Block user"_ para bloquear al pasajero en caso de que no esté bloqueado, o un botón de _"Unblock user"_ en caso de que esté bloqueado. También se cuenta con un botón "Cargar Saldo" [**explicarlo]**
 
-![](RackMultipart20221216-1-mul5aj_html_257c9f0bfae97484.png)
+![](./img/file9.png)
 
 También pueden observarse gráficos acerca del historial de viajes de este pasajero en particular y acerca del estado de sus viajes (esto en caso de que haya hecho algún viaje).
 
-**[agregar fotos de estos cuando tengamos algún passenger con trips]**
+![](./img/file10.png)
 
 **4. Visualización de todos los conductores**
 
